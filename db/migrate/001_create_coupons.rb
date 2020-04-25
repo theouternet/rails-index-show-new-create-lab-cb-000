@@ -1,1 +1,1 @@
-class 
+class CreateCoupons < ActiveRecord::Base
