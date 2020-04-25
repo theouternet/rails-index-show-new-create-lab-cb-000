@@ -13,7 +13,7 @@ class CouponsController < ApplicationController
   end 
   
   def show 
-    
+    @coupon = Coupon.:id
   end 
   
   
