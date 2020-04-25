@@ -12,7 +12,7 @@ class CouponsController < ApplicationController
     
   end 
   
-  def update
+  def show 
     
   end 
   
