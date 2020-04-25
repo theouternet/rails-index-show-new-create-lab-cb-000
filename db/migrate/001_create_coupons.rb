@@ -1,1 +1,1 @@
-class CreateCoupons < ActiveRecord::Base
+class CreateCoupons < ActiveRecord::Migration
